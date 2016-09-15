@@ -1,0 +1,55 @@
+﻿  MainGame.cpp
+c:\users\tegkh\documents\visual studio 2015\projects\letsmakethis happen\letsmakethis happen\maingame.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\tegkh\documents\visual studio 2015\projects\letsmakethis happen\letsmakethis happen\maingame.cpp(111): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+c:\users\tegkh\documents\visual studio 2015\projects\letsmakethis happen\letsmakethis happen\maingame.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(655): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(773): note: see reference to function template instantiation 'void std::allocator<_Ty>::construct<_Objty,glm::vec2&,glm::vec2&,float,int>(_Objty *,glm::vec2 &,glm::vec2 &,float &&,int &&)' being compiled
+          with
+          [
+              _Ty=Bullets,
+              _Objty=Bullets
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(773): note: see reference to function template instantiation 'void std::allocator<_Ty>::construct<_Objty,glm::vec2&,glm::vec2&,float,int>(_Objty *,glm::vec2 &,glm::vec2 &,float &&,int &&)' being compiled
+          with
+          [
+              _Ty=Bullets,
+              _Objty=Bullets
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(918): note: see reference to function template instantiation 'void std::allocator_traits<_Alloc>::construct<_Ty,glm::vec2&,glm::vec2&,float,int>(std::allocator<_Ty> &,_Objty *,glm::vec2 &,glm::vec2 &,float &&,int &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Bullets>,
+              _Ty=Bullets,
+              _Objty=Bullets
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(917): note: see reference to function template instantiation 'void std::allocator_traits<_Alloc>::construct<_Ty,glm::vec2&,glm::vec2&,float,int>(std::allocator<_Ty> &,_Objty *,glm::vec2 &,glm::vec2 &,float &&,int &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Bullets>,
+              _Ty=Bullets,
+              _Objty=Bullets
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(929): note: see reference to function template instantiation 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<Bullets,glm::vec2&,glm::vec2&,float,int>(_Ty *,glm::vec2 &,glm::vec2 &,float &&,int &&)' being compiled
+          with
+          [
+              _Ty=Bullets
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(928): note: see reference to function template instantiation 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<Bullets,glm::vec2&,glm::vec2&,float,int>(_Ty *,glm::vec2 &,glm::vec2 &,float &&,int &&)' being compiled
+          with
+          [
+              _Ty=Bullets
+          ]
+  c:\users\tegkh\documents\visual studio 2015\projects\letsmakethis happen\letsmakethis happen\maingame.cpp(138): note: see reference to function template instantiation 'void std::vector<Bullets,std::allocator<_Ty>>::emplace_back<glm::vec2&,glm::vec2&,float,int>(glm::vec2 &,glm::vec2 &,float &&,int &&)' being compiled
+          with
+          [
+              _Ty=Bullets
+          ]
+  c:\users\tegkh\documents\visual studio 2015\projects\letsmakethis happen\letsmakethis happen\maingame.cpp(138): note: see reference to function template instantiation 'void std::vector<Bullets,std::allocator<_Ty>>::emplace_back<glm::vec2&,glm::vec2&,float,int>(glm::vec2 &,glm::vec2 &,float &&,int &&)' being compiled
+          with
+          [
+              _Ty=Bullets
+          ]
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  letsmakethis happen.cpp
+  letsmakethis happen.vcxproj -> C:\Users\tegkh\Documents\Visual Studio 2015\Projects\letsmakethis happen\Debug\letsmakethis happen.exe

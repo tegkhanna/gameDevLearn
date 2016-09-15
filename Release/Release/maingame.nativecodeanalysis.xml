@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tegkh\documents\visual studio 2015\projects\letsmakethis happen\zombiegame\</FILEPATH>
+      <FILENAME>maingame.cpp</FILENAME>
+      <LINE>396</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6340</DEFECTCODE>
+    <DESCRIPTION>Mismatch on sign: 'unsigned int' passed as _Param_(3) when some signed type is required in call to 'sprintf_s'.</DESCRIPTION>
+    <FUNCTION>MainGame::drawHud</FUNCTION>
+    <DECORATED>?drawHud@MainGame@@AAEXXZ</DECORATED>
+    <FUNCLINE>383</FUNCLINE>
+    <PATH />
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tegkh\documents\visual studio 2015\projects\letsmakethis happen\zombiegame\</FILEPATH>
+      <FILENAME>maingame.cpp</FILENAME>
+      <LINE>398</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6340</DEFECTCODE>
+    <DESCRIPTION>Mismatch on sign: 'unsigned int' passed as _Param_(3) when some signed type is required in call to 'sprintf_s'.</DESCRIPTION>
+    <FUNCTION>MainGame::drawHud</FUNCTION>
+    <DECORATED>?drawHud@MainGame@@AAEXXZ</DECORATED>
+    <FUNCLINE>383</FUNCLINE>
+    <PATH />
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tegkh\documents\visual studio 2015\projects\letsmakethis happen\zombiegame\</FILEPATH>
+      <FILENAME>maingame.cpp</FILENAME>
+      <LINE>402</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6340</DEFECTCODE>
+    <DESCRIPTION>Mismatch on sign: 'unsigned int' passed as _Param_(3) when some signed type is required in call to 'sprintf_s'.</DESCRIPTION>
+    <FUNCTION>MainGame::drawHud</FUNCTION>
+    <DECORATED>?drawHud@MainGame@@AAEXXZ</DECORATED>
+    <FUNCLINE>383</FUNCLINE>
+    <PATH />
+  </DEFECT>
+</DEFECTS>

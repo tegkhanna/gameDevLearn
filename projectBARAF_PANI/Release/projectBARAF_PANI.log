@@ -1,0 +1,16 @@
+﻿  mainGame.cpp
+mainGame.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+mainGame.cpp(115): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+mainGame.cpp(120): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+mainGame.cpp(177): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+mainGame.cpp(185): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(192): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(194): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(252): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(302): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  Generating code
+  2 of 1997 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  projectBARAF_PANI.vcxproj -> C:\Users\tegkh\Documents\Visual Studio 2015\Projects\letsmakethis happen\Release\projectBARAF_PANI.exe
